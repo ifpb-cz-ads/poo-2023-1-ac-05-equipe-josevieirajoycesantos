@@ -1,7 +1,11 @@
 ***Documento anexo: questões 1 até 6***
+<br />01.<br />O For é utilizado para executar um conjunto de comandos executado por um número X de vezes;
+<br />•É passada uma situação inicial, uma condição e uma ação a ser executada a cada repetição;
+<br />•Uma variável é inicializada com uma valor inicial;
+<br />•Essa variável é utilizada para controlar a quantidade de vezes em que o conjunto de comandos será executado;
+<br />•E ao final do conjunto de comandos a variável sempre sofrerá uma alteração, aumentando ou diminuindo de acordo com a lógica utilizada.
 
-05.
-<br />a)***Correção:***
+05.<br />a)***Correção:***
 <br />for (int i = 100; i >= 1; i++)
 <br />System.out.println(i);
 <br />***Justificativa:***
